@@ -1,1 +1,1 @@
-Repo of some functions that i found to be useful.
+Collection of functions that I would like to revisit.
